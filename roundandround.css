@@ -1,0 +1,235 @@
+
+
+section {
+    position: absolute;
+}
+
+.closet {
+    width: 20vw;
+    height: 30vh;
+    left: 10vw;
+    top: 15vh;
+}
+
+.bathroom {
+    width: 10vw;
+    height: 30vh;
+    left: 30vw;
+    top: 15vh;
+}
+
+
+.kitchen {
+    width: 20vw;
+    height: 30vh;
+    left: 40vw;
+    top: 15vh;
+}
+
+
+.bedroom {
+    width: 20vw;
+    height: 30vh;
+    left: 60vw;
+    top: 15vh;
+}
+
+
+.workroom {
+    width: 30vw;
+    height: 40vh;
+    left: 60vw;
+    top: 45vh;
+}
+
+
+.living {
+    
+    width: 30vw;
+    height: 40vh;
+    left: 30vw;
+    top: 45vh;
+}
+
+.entrance {
+    width: 10vw;
+    height: 20vh;
+    left: 20vw;
+    top: 45vh;
+}
+
+p {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 1.5vh;
+}
+
+.poster-left {
+    top: 0;
+    left: 3vh;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+.poster-left2 {
+    top: 2.2vh;
+    left: 5.2vh;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+.poster-left3 {
+    top: 4.2vh;
+    left: 7.2vh;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+.poster-left4 {
+    top: 6.4vh;
+    left: 9.4vh;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+.poster-left5 {
+    top: 8.6vh;
+    left: 11.6vh;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+.poster-left6 {
+    top: 10vh;
+    left: 13.8vh;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+
+.poster-bottom {
+    bottom: 0;
+    left: 3vh;
+}
+
+.poster-bottom2 {
+    bottom: 2.2vh;
+    left: 5.2vh;
+}
+
+.poster-bottom3 {
+    bottom: 4.2vh;
+    left: 7.2vh;
+}
+
+.poster-bottom4 {
+    bottom: 6.4vh;
+    left: 9.4vh;
+}
+
+.poster-bottom5 {
+    bottom: 8.6vh;
+    left: 11.6vh;
+}
+
+.poster-bottom6 {
+    bottom: 10.8vh;
+    left: 13.8vh;
+}
+
+.poster-bottom7 {
+    bottom: 13vh;
+    left: 14.8vh;
+}
+
+.poster-right {
+    bottom: 2vh;
+    right: 2.5vh;
+    width: 0;                    
+    transform-origin: bottom left;  
+    transform: rotate(-90deg);
+}
+
+.poster-right2 {
+    bottom: 4.2vh;
+    right: 4.7vh;
+    width: 0;                    
+    transform-origin: bottom left; 
+    transform: rotate(-90deg);
+}
+
+.poster-right3 {
+    bottom: 6.4vh;
+    right: 6.9vh;
+    width: 0;                    
+    transform-origin: bottom left;  
+    transform: rotate(-90deg);
+}
+
+.poster-right4 {
+    bottom: 8.6vh;
+    right: 9.1vh;
+    width: 0;                     
+    transform-origin: bottom left;  
+    transform: rotate(-90deg);
+}
+
+.poster-right5 {
+    bottom: 10.8vh;
+    right: 11.3vh;
+    width: 0;                     
+    transform-origin: bottom left; 
+    transform: rotate(-90deg);
+}
+
+.poster-right6 {
+    bottom:13vh;
+    right: 13.3vh;
+    width: 0;                     
+    transform-origin: bottom left;  
+    transform: rotate(-90deg);
+}
+
+
+.poster-top {
+    top: 1vh;
+    right: 4.5vh;            
+    transform: rotate(-180deg);
+    transform-origin: top;
+}
+
+.poster-top2 {
+    top: 3vh;
+    right: 6.5vh;         
+    transform: rotate(-180deg);
+    transform-origin: top;
+}
+
+
+.poster-top3 {
+    top: 5vh;
+    right: 8.7vh;             
+    transform: rotate(-180deg);
+    transform-origin: top;
+}
+
+.poster-top4 {
+    top: 7.2vh;
+    right: 10.9vh;             
+    transform: rotate(-180deg);
+    transform-origin: top;
+}
+
+.poster-top5 {
+    top: 9.4vh;
+    right: 13.1vh;            
+    transform: rotate(-180deg);
+    transform-origin: top;
+}
+
+.poster-top6 {
+    top: 11.6vh;
+    right: 15.3vh;            
+    transform: rotate(-180deg);
+    transform-origin: top;
+}

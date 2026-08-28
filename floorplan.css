@@ -1,0 +1,79 @@
+body {
+    font-size: 1.5vh;
+    list-style: none;
+
+}
+
+div {
+    position: absolute;
+    /* border: 0.3px solid lightgray; */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    /* background-color: aqua; */
+}
+
+.closet {
+    width: 20vw;
+    height: 30vh;
+    left: 10vw;
+    top: 15vh;
+    /* background-color: aliceblue; */
+}
+
+.bathroom {
+    width: 10vw;
+    height: 30vh;
+    left: 30vw;
+    top: 15vh;
+    /* background-color:aqua; */
+}
+
+
+.kitchen {
+    width: 20vw;
+    height: 30vh;
+    left: 40vw;
+    top: 15vh;
+    /* background-color: yellowgreen; */
+}
+
+
+
+.bedroom {
+    width: 20vw;
+    height: 30vh;
+    left: 60vw;
+    top: 15vh;
+    /* background-color:cadetblue; */
+}
+
+
+.workroom {
+    width: 30vw;
+    height: 40vh;
+    left: 60vw;
+    top: 45vh;
+    /* background-color: indianred; */
+}
+
+
+.living {
+    
+    width: 30vw;
+    height: 40vh;
+    left: 30vw;
+    top: 45vh;
+    /* background-color: greenyellow; */
+}
+
+.entrance {
+    width: 10vw;
+    height: 20vh;
+    left: 20vw;
+    top: 45vh;
+    /* background-color: lemonchiffon; */
+}
